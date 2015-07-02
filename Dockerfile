@@ -1,4 +1,4 @@
-FROM 192.168.11.191:5000/ubuntu:14.04
+FROM 192.168.11.192:5000/ubuntu:14.04
 MAINTAINER James Turnbull "james@example.com"
 ENV REFRESHED_AT 2014-06-01
 RUN apt-get update
